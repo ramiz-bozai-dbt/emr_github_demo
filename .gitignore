@@ -1,0 +1,5 @@
+target/compiled
+target/run
+dbt_modules/
+dbt_packages/
+logs/
